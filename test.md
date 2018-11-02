@@ -5,6 +5,7 @@
 //
 //
 realtest 2
+discard version
 ~
 ~
 ~
